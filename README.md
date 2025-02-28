@@ -9,3 +9,6 @@
 
 ## 2. Istruzioni per l'utilizzo della demo
 - E' sufficiente eseguire il file **demo\.py**.
+
+## 3. Info
+- Per altri dettagli fare riferimento alla **relazione**.

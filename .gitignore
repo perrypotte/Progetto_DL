@@ -2,3 +2,5 @@ dataset/*/*.jpg
 *.png
 datasets/*/*
 output
+tmp
+*.ckpt

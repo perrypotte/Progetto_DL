@@ -5,6 +5,7 @@ numpy
 matplotlib
 python-dotenv
 tensorboard
+tensorflow
 ultralytics
 tkinterdnd2
 pytorch_lightning
