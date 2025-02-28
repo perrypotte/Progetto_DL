@@ -1,6 +1,5 @@
-dataset/*/*.jpg
 *.png
-datasets/*/*
+*.jpg
 output
 tmp
 *.ckpt
