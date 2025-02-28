@@ -1,0 +1,1 @@
+Script used to make all the datasets from EgoISM-HOI

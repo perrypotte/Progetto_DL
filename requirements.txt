@@ -1,0 +1,12 @@
+torch
+torchvision
+pandas
+numpy
+matplotlib
+python-dotenv
+tensorboard
+ultralytics
+tkinterdnd2
+pytorch_lightning
+torchsummary
+

@@ -1,2 +1,4 @@
-*.jpg
+dataset/*/*.jpg
 *.png
+datasets/*/*
+output
